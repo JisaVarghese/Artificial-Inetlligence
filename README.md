@@ -1,6 +1,7 @@
 This project is created as per the curriculum requirement for the module Artificial Intelligence:
  In this project we are converting videos from the data folder to the Americn Sign Language dictionary videos.
- A subset of the ASL Video from the below link is used due  to data storage constariants: 
+ A subset of the ASL Video from the below link is used due  to data storage constariants.
+ 
   https://aslsignbank.haskins.yale.edu/signs/show_all/
 
 Each File represents the demonstration of each method.
